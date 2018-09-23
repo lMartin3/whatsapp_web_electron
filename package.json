@@ -1,0 +1,23 @@
+{
+  "name": "whatsapp_web_electron",
+  "version": "1.0.0",
+  "description": "Whatsapp desktop app made in electron",
+  "main": "app.js",
+  "dependencies": {
+    "electron": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lMartin3/whatsapp_web_electron.git"
+  },
+  "author": "lMartin3",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/lMartin3/whatsapp_web_electron/issues"
+  },
+  "homepage": "https://github.com/lMartin3/whatsapp_web_electron#readme"
+}
